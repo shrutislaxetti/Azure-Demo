@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1><% out.println("Hello Azure!"); %></h1>
+<h1>hey</h1>
 </body>
 </html>
